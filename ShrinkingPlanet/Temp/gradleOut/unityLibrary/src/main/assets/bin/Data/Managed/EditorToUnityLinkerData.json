@@ -583,17 +583,6 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "Sprite",
-            "fullManagedTypeName": "UnityEngine.Sprite",
-            "moduleName": "Core",
-            "usedInScenes": [
-                "Assets/Menu.unity",
-                "Assets/Main.unity",
-                "Assets/LeaderBoard.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "CanvasRenderer",
             "fullManagedTypeName": "UnityEngine.CanvasRenderer",
             "moduleName": "UI",
@@ -659,7 +648,8 @@
             "fullManagedTypeName": "UnityEngine.Cubemap",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Menu.unity"
+                "Assets/Menu.unity",
+                "Assets/Main.unity"
             ]
         },
         {
@@ -722,6 +712,16 @@
             "usedInScenes": [
                 "Assets/Menu.unity",
                 "Assets/Main.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Sprite",
+            "fullManagedTypeName": "UnityEngine.Sprite",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Main.unity",
+                "Assets/LeaderBoard.unity"
             ]
         },
         {
@@ -879,111 +879,6 @@
             "usedInScenes": []
         },
         {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Advanced.G_AdvancedData",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Audio.G_AudioGraph",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Audio.G_AudioManager",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Audio.G_AudioMonitor",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Audio.G_AudioText",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Fps.G_FpsGraph",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Fps.G_FpsManager",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Fps.G_FpsMonitor",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Fps.G_FpsText",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.GraphyDebugger",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.GraphyManager",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Ram.G_RamGraph",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Ram.G_RamManager",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Ram.G_RamMonitor",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Tayx.Graphy.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Tayx.Graphy.Ram.G_RamText",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
             "managedAssemblyName": "Unity.AdaptivePerformance.Samsung.Android.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.AdaptivePerformance.Samsung.Android.SamsungAndroidProviderSettings",
@@ -1085,13 +980,6 @@
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.Outline",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.UI.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.UI.Shadow",
             "moduleName": "",
             "usedInScenes": []
         },

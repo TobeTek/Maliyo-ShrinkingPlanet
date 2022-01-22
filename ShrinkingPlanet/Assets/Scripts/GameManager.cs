@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fb27c1abf504ce57e64cd96e7f885529efe682d1dfdcdd14750b5d4a8bcf0ca
-size 372
+using UnityEngine.SceneManagement;
+using UnityEngine;
+
+public class GameManager : MonoBehaviour {
+
+	public static GameManager instance;
+
+	public GameObject gameOverUI;
+
+	void Awake ()
+	{
+		instance = this;
+	}
+
+	public void EndGame ()
+	{
+		gameOverUI.SetActive(true);
+		HighScoreManager.instance.UpdateHighScoreData(Planet.Score);
+	}
+
+	public void Restart ()
+	{
+		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+	}
+
+}
