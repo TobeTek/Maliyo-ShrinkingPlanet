@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d40d7bd660ad134bedc3ed0de2c704ec9e9bf748637ed12c9eea045d5122ac79
-size 194
+fileFormatVersion: 2
+guid: eb908df110bf2314d94d245f8a338830
+labels:
+- font
+timeCreated: 1515073036
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

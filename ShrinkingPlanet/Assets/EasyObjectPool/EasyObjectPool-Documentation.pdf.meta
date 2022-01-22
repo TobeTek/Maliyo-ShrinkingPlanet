@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ad649331c5b2cf0d9dab71ba2cc8d8f593b0ca8f69f138444f78b62189e40f3
-size 210
+fileFormatVersion: 2
+guid: a456a93d1f6b14598903f073f206d693
+labels:
+- Pool
+- Pooling
+- Object
+timeCreated: 1425713041
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

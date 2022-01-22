@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5914f238d291a10e68eeb9ee025bd7f9e99dcbf80d5cee543eadf5bce841e0af
-size 304
+fileFormatVersion: 2
+guid: 0abab5bb77339e4428787a870eb31bd3
+labels:
+- audio
+- counter
+- debugger
+- fps
+- graph
+- graphy
+- memory
+- ram
+- screenshot
+- shader
+- spectrum
+- stats
+- tayx
+timeCreated: 1513271445
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

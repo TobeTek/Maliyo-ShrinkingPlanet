@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d56590e34fac9476942f386de1c551d7c22aac95f379499077b7a7c40a8fbe92
-size 252
+fileFormatVersion: 2
+guid: 5ec99183bcca10249ac54cd6dcee6372
+labels:
+- counter
+- graph
+- material
+- memory
+- monitor
+- ram
+- shader
+timeCreated: 1512501386
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

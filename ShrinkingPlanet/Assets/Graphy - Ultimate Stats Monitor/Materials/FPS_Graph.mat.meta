@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65d71623428016466bf11ceb4f5b8926d8f631e679c3c15e53cd4464de4d341d
-size 251
+fileFormatVersion: 2
+guid: 8a88e148dbc2d0f45a027f72e59aee4d
+labels:
+- counter
+- fps
+- graph
+- material
+- monitor
+- shader
+- stats
+timeCreated: 1511697739
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

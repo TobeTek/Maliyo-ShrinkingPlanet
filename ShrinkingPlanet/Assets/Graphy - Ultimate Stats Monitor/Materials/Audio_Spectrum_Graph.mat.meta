@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bd6e2a1b839ad1e984c1e1655adcf5eabe6582e154a9bdf97ae8ea9d768218a
-size 251
+fileFormatVersion: 2
+guid: 61a418be8e5d13c448865432314f8277
+labels:
+- audio
+- graph
+- material
+- shader
+- spectrometer
+- spectrum
+timeCreated: 1513179885
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
