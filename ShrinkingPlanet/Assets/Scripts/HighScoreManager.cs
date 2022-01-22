@@ -30,7 +30,7 @@ public class HighScoreManager : MonoBehaviour
 
     public void SubmitScore()
     {
-        HighScores.UploadScore(nameField.text, PlayerPrefs.GetFloat("Highscore",0.0f));
+        HighScores.UploadScore(nameField.text, (int)highScore);
     }
 
     public void LoadLeaderboard()
